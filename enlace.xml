@@ -1,0 +1,227 @@
+<root>
+<row>
+<Id>1</Id>
+<Airline>Iberia</Airline>
+<Time>3:00 PM</Time>
+<Desti>Barcelona</Desti>
+<Flight>IBE - 844</Flight>
+<Gate>33</Gate>
+<Status>On Time</Status>
+<Terminal>A1</Terminal>
+<Logo>"C:\Users\giovanni.mollo\Desktop\NAVORI\LUIGI.png"</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>2</Id>
+<Airline>Swiss International</Airline>
+<Time>3:05 PM</Time>
+<Desti>Zürich</Desti>
+<Flight>LX - 355</Flight>
+<Gate>55</Gate>
+<Status>Delay 15:55</Status>
+<Terminal>F3</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Red-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>3</Id>
+<Airline>Air France</Airline>
+<Time>4:25 PM</Time>
+<Desti>Paris</Desti>
+<Flight>AF - 477</Flight>
+<Gate>12</Gate>
+<Status>On Time</Status>
+<Terminal>E2</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/af.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>4</Id>
+<Airline>British Airways</Airline>
+<Time>4:29 PM</Time>
+<Desti>London</Desti>
+<Flight>BA - 55</Flight>
+<Gate>22</Gate>
+<Status>On Time</Status>
+<Terminal>C1</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ba.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>5</Id>
+<Airline>Swiss International</Airline>
+<Time>5:12 PM</Time>
+<Desti>Tokyo</Desti>
+<Flight>LX - 974</Flight>
+<Gate>39</Gate>
+<Status>Delay 18:00</Status>
+<Terminal>F3</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Red-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>6</Id>
+<Airline>United Airlines</Airline>
+<Time>5:24 PM</Time>
+<Desti>New York</Desti>
+<Flight>UA - 544</Flight>
+<Gate>44</Gate>
+<Status>On Time</Status>
+<Terminal>B4</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ua.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>7</Id>
+<Airline>American Airlines</Airline>
+<Time>5:37 PM</Time>
+<Desti>San Francisco</Desti>
+<Flight>AA - 43</Flight>
+<Gate>32</Gate>
+<Status>On Time</Status>
+<Terminal>B5</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/aa.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>8</Id>
+<Airline>Iberia</Airline>
+<Time>5:45 PM</Time>
+<Desti>Buenos Aires</Desti>
+<Flight>IBE - 544</Flight>
+<Gate>33</Gate>
+<Status>On Time</Status>
+<Terminal>A1</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ib.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>9</Id>
+<Airline>Swiss International</Airline>
+<Time>5:57 PM</Time>
+<Desti>Dubai</Desti>
+<Flight>LX - 274</Flight>
+<Gate>12</Gate>
+<Status>On Time</Status>
+<Terminal>F3</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>10</Id>
+<Airline>Swiss International</Airline>
+<Time>6:02 PM</Time>
+<Desti>Karachi</Desti>
+<Flight>LX - 34</Flight>
+<Gate>15</Gate>
+<Status>On Time</Status>
+<Terminal>F5</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>11</Id>
+<Airline>Swiss International</Airline>
+<Time>6:29 PM</Time>
+<Desti>Mumbai</Desti>
+<Flight>LX - 325</Flight>
+<Gate>21</Gate>
+<Status>On Time</Status>
+<Terminal>F3</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/sw.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>12</Id>
+<Airline>Iberia</Airline>
+<Time>6:45 PM</Time>
+<Desti>Monte Video</Desti>
+<Flight>IBE - 334</Flight>
+<Gate>30</Gate>
+<Status>On Time</Status>
+<Terminal>A1</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ib.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>13</Id>
+<Airline>Air France</Airline>
+<Time>6:51 PM</Time>
+<Desti>Mexico</Desti>
+<Flight>AF - 335</Flight>
+<Gate>55</Gate>
+<Status>On Time</Status>
+<Terminal>E2</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/af.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>14</Id>
+<Airline>United Airlines</Airline>
+<Time>6:59 PM</Time>
+<Desti>Chicago</Desti>
+<Flight>UA - 522</Flight>
+<Gate>55</Gate>
+<Status>On Time</Status>
+<Terminal>B4</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ua.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Green-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+<row>
+<Id>15</Id>
+<Airline>United Airlines</Airline>
+<Time>7:15 PM</Time>
+<Desti>Portland</Desti>
+<Flight>UA - 255</Flight>
+<Gate>33</Gate>
+<Status>Delay 20:00</Status>
+<Terminal>B4</Terminal>
+<Logo>http://470c998ccfa016fcf181-54de496ac22791b8baa2bc402f068fc2.r42.cf2.rackcdn.com/ua.png</Logo>
+<Gate_background> https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Yellow-1.png </Gate_background>
+<Status-background>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/Red-1.png</Status-background>
+<logo-airline>https://11ab343ff3dbbc965027-54de496ac22791b8baa2bc402f068fc2.ssl.cf2.rackcdn.com/White-1.png</logo-airline>
+<Empty/>
+</row>
+</root>
